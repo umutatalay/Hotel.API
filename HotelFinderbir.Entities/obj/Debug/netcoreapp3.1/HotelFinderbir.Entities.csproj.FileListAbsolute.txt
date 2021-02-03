@@ -1,0 +1,12 @@
+D:\Users\UMUT\source\repos\HotelFinderbir\HotelFinderbir.Entities\bin\Debug\netcoreapp3.1\HotelFinderbir.Entities.deps.json
+D:\Users\UMUT\source\repos\HotelFinderbir\HotelFinderbir.Entities\bin\Debug\netcoreapp3.1\HotelFinderbir.Entities.dll
+D:\Users\UMUT\source\repos\HotelFinderbir\HotelFinderbir.Entities\obj\Debug\netcoreapp3.1\HotelFinderbir.Entities.csprojAssemblyReference.cache
+D:\Users\UMUT\source\repos\HotelFinderbir\HotelFinderbir.Entities\obj\Debug\netcoreapp3.1\HotelFinderbir.Entities.AssemblyInfoInputs.cache
+D:\Users\UMUT\source\repos\HotelFinderbir\HotelFinderbir.Entities\obj\Debug\netcoreapp3.1\HotelFinderbir.Entities.AssemblyInfo.cs
+D:\Users\UMUT\source\repos\HotelFinderbir\HotelFinderbir.Entities\bin\Debug\netcoreapp3.1\HotelFinderbir.Entities.runtimeconfig.json
+D:\Users\UMUT\source\repos\HotelFinderbir\HotelFinderbir.Entities\bin\Debug\netcoreapp3.1\HotelFinderbir.Entities.runtimeconfig.dev.json
+D:\Users\UMUT\source\repos\HotelFinderbir\HotelFinderbir.Entities\bin\Debug\netcoreapp3.1\HotelFinderbir.Entities.pdb
+D:\Users\UMUT\source\repos\HotelFinderbir\HotelFinderbir.Entities\obj\Debug\netcoreapp3.1\HotelFinderbir.Entities.csproj.CoreCompileInputs.cache
+D:\Users\UMUT\source\repos\HotelFinderbir\HotelFinderbir.Entities\obj\Debug\netcoreapp3.1\HotelFinderbir.Entities.dll
+D:\Users\UMUT\source\repos\HotelFinderbir\HotelFinderbir.Entities\obj\Debug\netcoreapp3.1\HotelFinderbir.Entities.pdb
+D:\Users\UMUT\source\repos\HotelFinderbir\HotelFinderbir.Entities\obj\Debug\netcoreapp3.1\HotelFinderbir.Entities.genruntimeconfig.cache

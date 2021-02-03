@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HotelFinderbir.Business\HotelFinderbir.Business.csproj" />
+    <ProjectReference Include="..\HotelFinderbir.Entities\HotelFinderbir.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

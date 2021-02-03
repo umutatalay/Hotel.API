@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HotelFinderbir.DataAccess\HotelFinderbir.DataAccess.csproj" />
+    <ProjectReference Include="..\HotelFinderbir.Entities\HotelFinderbir.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

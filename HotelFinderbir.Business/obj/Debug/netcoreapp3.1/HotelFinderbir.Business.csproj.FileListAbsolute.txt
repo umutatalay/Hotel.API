@@ -1,0 +1,14 @@
+D:\Users\UMUT\source\repos\HotelFinderbir\HotelFinderbir.Business\bin\Debug\netcoreapp3.1\HotelFinderbir.Business.deps.json
+D:\Users\UMUT\source\repos\HotelFinderbir\HotelFinderbir.Business\bin\Debug\netcoreapp3.1\HotelFinderbir.Business.dll
+D:\Users\UMUT\source\repos\HotelFinderbir\HotelFinderbir.Business\bin\Debug\netcoreapp3.1\HotelFinderbir.Business.pdb
+D:\Users\UMUT\source\repos\HotelFinderbir\HotelFinderbir.Business\bin\Debug\netcoreapp3.1\HotelFinderbir.DataAccess.dll
+D:\Users\UMUT\source\repos\HotelFinderbir\HotelFinderbir.Business\bin\Debug\netcoreapp3.1\HotelFinderbir.Entities.dll
+D:\Users\UMUT\source\repos\HotelFinderbir\HotelFinderbir.Business\bin\Debug\netcoreapp3.1\HotelFinderbir.DataAccess.pdb
+D:\Users\UMUT\source\repos\HotelFinderbir\HotelFinderbir.Business\bin\Debug\netcoreapp3.1\HotelFinderbir.Entities.pdb
+D:\Users\UMUT\source\repos\HotelFinderbir\HotelFinderbir.Business\obj\Debug\netcoreapp3.1\HotelFinderbir.Business.csprojAssemblyReference.cache
+D:\Users\UMUT\source\repos\HotelFinderbir\HotelFinderbir.Business\obj\Debug\netcoreapp3.1\HotelFinderbir.Business.AssemblyInfoInputs.cache
+D:\Users\UMUT\source\repos\HotelFinderbir\HotelFinderbir.Business\obj\Debug\netcoreapp3.1\HotelFinderbir.Business.AssemblyInfo.cs
+D:\Users\UMUT\source\repos\HotelFinderbir\HotelFinderbir.Business\obj\Debug\netcoreapp3.1\HotelFinderbir.Business.csproj.CoreCompileInputs.cache
+D:\Users\UMUT\source\repos\HotelFinderbir\HotelFinderbir.Business\obj\Debug\netcoreapp3.1\HotelFinderbir.Business.csproj.CopyComplete
+D:\Users\UMUT\source\repos\HotelFinderbir\HotelFinderbir.Business\obj\Debug\netcoreapp3.1\HotelFinderbir.Business.dll
+D:\Users\UMUT\source\repos\HotelFinderbir\HotelFinderbir.Business\obj\Debug\netcoreapp3.1\HotelFinderbir.Business.pdb
